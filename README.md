@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kian</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Kian</h1>
 <h3 align="center">I'm Full Stack Web Developer based in Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kianristori&label=Profile%20views&color=0e75b6&style=flat" alt="kianristori" /> </p>
