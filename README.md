@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on [kianristori.dev](https://github.com/KianRistori/kianristori.dev)
 
-- 👨‍💻 All of my projects are available at [kianristori.dev](kianristori.dev)
-
-- 📝 I regularly write articles on [kianristori.dev](kianristori.dev)
-
 - 📫 How to reach me **ristorikian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
