@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🧑🏻‍💻 Blog: [kianristori.dev](kianristori.dev)
 
 ## 🌐 Socials:
